@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "803")(type "KiCad")(uri "${KIPRJMOD}/803.kicad_sym")(options "")(descr "803embedded project symbols"))
+  (lib (name "Device")(type "KiCad")(uri "C:/Program Files/KiCad/9.0/share/kicad/symbols/Device.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Generic")(type "KiCad")(uri "C:/Program Files/KiCad/9.0/share/kicad/symbols/Connector_Generic.kicad_sym")(options "")(descr ""))
+  (lib (name "Mechanical")(type "KiCad")(uri "C:/Program Files/KiCad/9.0/share/kicad/symbols/Mechanical.kicad_sym")(options "")(descr ""))
+)

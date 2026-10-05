@@ -1,0 +1,89 @@
+** Drc report for 803-001-002-A.kicad_pcb **
+** Created on 2026-10-04T20:23:06 **
+** Report includes: Errors, Warnings **
+
+** Found 21 DRC violations **
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(20.6909 mm, 27.8850 mm): Zone 'Rev-B top_layer GND copper' [GND] on F.Cu, priority 1
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(20.6909 mm, 27.8850 mm): Zone 'Rev-B top_layer GND copper' [GND] on F.Cu, priority 1
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(20.6909 mm, 27.8850 mm): Zone 'Rev-B top_layer GND copper' [GND] on F.Cu, priority 1
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(20.6909 mm, 27.8850 mm): Zone 'Rev-B top_layer GND copper' [GND] on F.Cu, priority 1
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(20.6909 mm, 27.8850 mm): Zone 'Rev-B top_layer GND copper' [GND] on F.Cu, priority 1
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(20.6909 mm, 27.8850 mm): Zone 'Rev-B bottom_layer GND copper' [GND] on B.Cu, priority 1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(68.2190 mm, 59.0000 mm): Segment on Edge.Cuts
+    @(68.2050 mm, 53.6750 mm): Segment on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(45.7810 mm, 50.8843 mm): Segment on Edge.Cuts
+    @(25.0250 mm, 53.6750 mm): Segment on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(45.7810 mm, 50.8843 mm): Segment on Edge.Cuts
+    @(45.8550 mm, 58.6250 mm): Segment on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(45.7810 mm, 50.8843 mm): Segment on Edge.Cuts
+    @(25.0250 mm, 58.6250 mm): Segment on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(68.2190 mm, 59.0000 mm): Segment on Edge.Cuts
+    @(68.2050 mm, 58.6250 mm): Segment on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(68.2190 mm, 59.0000 mm): Segment on Edge.Cuts
+    @(68.2050 mm, 58.6250 mm): Segment on B.Silkscreen
+[lib_footprint_mismatch]: Footprint 'PinSocket_1x10_P2.00mm_Vertical' does not match copy in library 'Connector_PinSocket_2.00mm'
+    Local override; warning
+    @(46.1574 mm, 37.1810 mm): Footprint J3
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'
+    Local override; warning
+    @(39.9827 mm, 29.9140 mm): Footprint C2
+[lib_footprint_mismatch]: Footprint 'PinSocket_1x10_P2.00mm_Vertical' does not match copy in library 'Connector_PinSocket_2.00mm'
+    Local override; warning
+    @(68.1538 mm, 37.1810 mm): Footprint J4
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'
+    Local override; warning
+    @(42.1417 mm, 29.9140 mm): Footprint C1
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'
+    Local override; warning
+    @(74.1228 mm, 31.0723 mm): Footprint R1
+[lib_footprint_mismatch]: Footprint 'Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943' does not match copy in library 'Mounting_Wuerth'
+    Local override; warning
+    @(25.1300 mm, 46.6000 mm): Footprint MP1
+[lib_footprint_mismatch]: Footprint 'PinSocket_2x08_P2.54mm_Vertical' does not match copy in library 'Connector_PinSocket_2.54mm'
+    Local override; warning
+    @(69.7300 mm, 57.4200 mm): Footprint J2
+[lib_footprint_mismatch]: Footprint 'Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943' does not match copy in library 'Mounting_Wuerth'
+    Local override; warning
+    @(88.7300 mm, 46.6000 mm): Footprint MP2
+[lib_footprint_mismatch]: Footprint 'PinSocket_2x08_P2.54mm_Vertical' does not match copy in library 'Connector_PinSocket_2.54mm'
+    Local override; warning
+    @(26.5500 mm, 57.4200 mm): Footprint J1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - PTH inside courtyard
+    - NPTH inside courtyard
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

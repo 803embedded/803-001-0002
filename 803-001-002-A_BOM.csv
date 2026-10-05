@@ -1,0 +1,8 @@
+Reference,Qty,Value / Part,Manufacturer,MPN,Supplier,Supplier PN,Notes
+C1,1,47pF 50V C0G 0603,KEMET,C0603C470J5GACTU,Digi-Key,399-C0603C470J5GACTUCT-ND,Retained from Rev B
+C2,1,1uF 25V X7R 0603,Murata Electronics,GCM188R71E105KA64J,Digi-Key,490-GCM188R71E105KA64JCT-ND,Retained from Rev B
+C3,1,220uF 16V polymer 7343-31,KEMET,T521D227M016ATE025,Digi-Key,399-T521D227M016ATE025CT-ND,Cellular bulk bypass; polarized
+R1,1,10k 1% 0603,YAGEO,RC0603FR-0710KL,Digi-Key,311-10.0KHRCT-ND,AD0 pull-down
+"J1,J2",2,SSQ-108-03-G-D,Samtec Inc.,SSQ-108-03-G-D,Digi-Key,SAM1196-08-ND,"Viola sockets, underside"
+"J3,J4",2,M22-7131042,Harwin Inc.,M22-7131042,Digi-Key,952-1354-5-ND,XBee sockets
+"MP1,MP2",2,WA-SMST 2.25mm H7,Würth Elektronik,9774070943R,Digi-Key,732-10945-1-ND,"SMT steel spacers, underside"

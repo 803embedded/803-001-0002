@@ -1,0 +1,13 @@
+(version 1)
+
+# The released WA-SMST spacer is a non-plated 3.0 mm hole inside a 5.3 mm
+# bottom-copper land.  The intentional overlap is the manufacturer's footprint.
+(rule "WA-SMST NPTH in copper land"
+  (condition "A.Reference == 'MP1' || A.Reference == 'MP2' || B.Reference == 'MP1' || B.Reference == 'MP2'")
+  (constraint hole_clearance)
+  (severity ignore))
+
+(rule "WA-SMST shared mask opening"
+  (condition "A.Reference == 'MP1' || A.Reference == 'MP2' || B.Reference == 'MP1' || B.Reference == 'MP2'")
+  (constraint bridged_mask)
+  (severity ignore))
