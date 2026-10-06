@@ -12,6 +12,8 @@ The original C3 10 uF / 1206 capacitor is replaced by:
 
 C3 is polarized; pad 1 / the marked end is VCC. Its center is shifted 0.94 mm left from the old C3 center to clear C2, and both pads have short 1.2 mm-wide connections into the unchanged VCC/GND copper.
 
+TODO: update the below info
+
 Digi's XBee Cellular 3G Global guide recommends at least 220 uF of bulk capacitance at VCC because cellular startup/wakeup inrush can approach 2 A. The existing 47 pF and 1 uF high-frequency bypass capacitors are retained. Reference:
 <https://docs.digi.com/resources/documentation/digidocs/90001541/reference/r_cell_power_supply.htm>
 
